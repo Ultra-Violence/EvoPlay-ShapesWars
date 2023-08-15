@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033d0ac27da88eb41a2b2802408c6a4e, type: 3}
+  m_Name: Square
+  m_EditorClassIdentifier: 
+  nameShape: Square
+  history: We, the squares, have been oppressed by the triangles for thousands of
+    years, but this could not go on forever. Our square gods sent you to us so that
+    you could at least take revenge. Be careful, though, the treacherous triangles
+    have made an alliance with our other natural enemies, the circles. Our hard shell
+    has always lost to their soft one. The best thing you can do is avoid collisions
+    with circles and destroy the triangular fools. Good luck!!!
+  prefab: {fileID: 2828051379539472242, guid: 803b67e0facee4642a669c82eb20c8b3, type: 3}
+  bonusPrefab: {fileID: 5246164069000723349, guid: 27cde10d96dba3343b03506308dfe388, type: 3}
+  sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  openType: {fileID: 11400000, guid: 2e386bd4c7dc76f4fa12cb15d3e10f51, type: 2}
+  closeType: {fileID: 11400000, guid: fdaf09949bdc9f344a4d9cd138fb1b91, type: 2}
+  playerChoice: 0
